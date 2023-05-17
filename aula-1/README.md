@@ -1,1 +1,0 @@
-Limpando os comentários dos arquivos padrões e excluindo arquivos desnecessários para o projeto.
